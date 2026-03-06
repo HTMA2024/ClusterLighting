@@ -6,9 +6,9 @@ A Clustered Forward Lighting implementation for Unity Built-in Render Pipeline. 
 
 ## Showcase
 
-![ClusterLighting](assets/github-repo-images/ClusterLighting/ClusterLighting.jpg)
+![ClusterLighting](Images/ClusterLighting.jpg)
 
-![Heatmap](assets/github-repo-images/ClusterLighting/Heatmap.jpg)
+![Heatmap](Images/Heatmap.jpg)
 
 ## System Architecture
 
